@@ -13,6 +13,10 @@ https://cpom.prefeitura.sp.gov.br/prestador/SituacaoCadastral
 
 Utilizar CNPJ 10.480.616/0001-60
 
+Itens a desenvolver
+http://www8.receita.fazenda.gov.br/SimplesNacional/aplicacoes.aspx?id=21
+53.708.921/0001-70
+
 Tecnologias Utilizadas:
 
 https://github.com/puppeteer/puppeteer
