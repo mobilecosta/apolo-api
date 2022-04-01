@@ -1,0 +1,21 @@
+{
+  "name": "apolo-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "debug": "SET DEBUG=Az.* & node ./app.js"
+  },
+  "dependencies": {
+    "@extra/recaptcha": "^4.2.1-next.587",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1",
+    "playwright": "1.9.0",
+    "playwright-extra": "^4.2.1-next.616",
+    "promise-poller": "^1.9.1",
+    "request-promise-native": "^1.0.9",
+    "require": "^2.4.20",
+    "uuid": "^8.3.2"
+  }
+}
